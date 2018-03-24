@@ -34,6 +34,6 @@ tk.mybatis:mapper 项目默认聚合了 mapper-base 项目，而当前这个是 
 <dependency>
     <groupId>tk.mybatis</groupId>
     <artifactId>mapper-base2</artifactId>
-    <optional>1.0.0</optional>
+    <version>1.0.0</version>
 </dependency>
 ```
